@@ -1,6 +1,6 @@
-# Lab Equipment Dashboard
+# Digital Vaccine Certification
 
-Dashboard for lab equipment monitoring with automated alerts, improving inspection efficiency by 40%.
+Digital vaccine certification system managing 500+ test records with 70% faster processing.
 
 ## Features
 - Feature 1

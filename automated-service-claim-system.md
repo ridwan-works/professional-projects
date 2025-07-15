@@ -1,6 +1,6 @@
-# Lab Equipment Dashboard
+# Automated Service Claim System
 
-Dashboard for lab equipment monitoring with automated alerts, improving inspection efficiency by 40%.
+A web-based warranty claim system that improved data accuracy from 70% to 98%.
 
 ## Features
 - Feature 1

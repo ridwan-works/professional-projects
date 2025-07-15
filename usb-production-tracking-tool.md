@@ -1,6 +1,6 @@
-# Lab Equipment Dashboard
+# Usb Production Tracking Tool
 
-Dashboard for lab equipment monitoring with automated alerts, improving inspection efficiency by 40%.
+USB serial-based production tracker that reduced material waste by 15%.
 
 ## Features
 - Feature 1
